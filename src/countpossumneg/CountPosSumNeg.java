@@ -1,4 +1,4 @@
-package CountPosSumNeg;
+package countpossumneg;
 
 /**
  * Created by alex on 9/30/16.

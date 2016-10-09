@@ -1,7 +1,6 @@
-package Eureka;
+package eureka;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class Eureka {

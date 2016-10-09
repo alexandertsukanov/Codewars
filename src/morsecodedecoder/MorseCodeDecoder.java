@@ -1,4 +1,4 @@
-package MorseCodeDecoder;
+package morsecodedecoder;
 
 /**
  * Created by alex on 9/30/16.

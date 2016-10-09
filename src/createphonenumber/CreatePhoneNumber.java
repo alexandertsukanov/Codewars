@@ -1,10 +1,7 @@
-package CreatePhoneNumber;
+package createphonenumber;
 
-import java.text.FieldPosition;
 import java.text.NumberFormat;
 import java.text.ParseException;
-import java.text.ParsePosition;
-import java.util.Arrays;
 import java.util.Locale;
 
 /**
